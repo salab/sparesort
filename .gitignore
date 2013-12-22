@@ -1,0 +1,14 @@
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+/target
+
+Thumbs.db
+.DS_Store
+
+*~
+*.bak
